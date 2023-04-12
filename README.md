@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Malik Turnbull - @turnbullm29
 - 👀 I’m interested in a front end development career
-- 🌱 I’m currently learning python and web development  ...
-- 💞️ I’m looking to collaborate on anything that I can be a part of while learning to better my skills!
+- 🌱 I’m currently learning python, C#, and Unity. 
+- 👨🏾‍💻 I’m looking to collaborate on anything that I can be a part of while learning to better my skills!
 - 📫 How to reach me
   email: malik.turnbull@hotmail.com
   instagram: @Turnbull.design.studio
