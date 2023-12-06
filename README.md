@@ -5,7 +5,6 @@
 - 📫 How to reach me
   email: malik.turnbull@hotmail.com
   instagram: @Turnbull.design.studio
-  Twitter: @CodewithTurnbull
 
 <!---
 turnbullm29/turnbullm29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
